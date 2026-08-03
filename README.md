@@ -2,7 +2,7 @@
 
 # Hi, I'm Chethana Gimhan 👋
 
-**Computer Science & Engineering Undergraduate — Cyber Security Specialization**
+**Computer Science & Engineering Undergraduate — Cyber Security Specialization |**
 **University of Moratuwa, Sri Lanka**
 
 *I don't stop at 'it works' — I stop at knowing why it works, and how it breaks.*
