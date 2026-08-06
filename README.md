@@ -111,15 +111,6 @@ Computer Science & Engineering undergraduate at the University of Moratuwa, spec
  
 ---
  
-## 📊 GitHub Stats
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ChethanaGimhan&show_icons=true&hide_border=true&bg_color=FFFBF5&title_color=B45309&icon_color=D97706&text_color=44403C&cache_seconds=86400" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=ChethanaGimhan&hide_border=true&background=FFFBF5&stroke=EAE3D6&ring=D97706&fire=B45309&currStreakLabel=B45309" height="165"/>
-</div>
-
----
- 
 <div align="center">
 
 ⭐ Open to internships in **Cybersecurity** and **Software Engineering**
