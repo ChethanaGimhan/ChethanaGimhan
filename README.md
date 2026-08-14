@@ -145,7 +145,7 @@ Third-year Computer Science \& Engineering undergraduate at the University of Mo
 ## 🤝 Leadership
 
 - **Vice-captain**, Men's Athletic Team, University of Moratuwa · Sep 2025 – Present
-- **President**, Mora Athletics Society · Jan 2026 – Present — leads planning for university athletics events including *Mora Kid Athlete*, an island-wide junior meet
+- **President**, Mora Athletics Society · Jan 2026 – Present 
 - **Events Committee Co-lead**, IEEE CIS Chapter, University of Moratuwa · Apr 2026 – Present
 - **Student Member**, Institution of Engineers Sri Lanka (IESL) · Mar 2025 – Present
 
