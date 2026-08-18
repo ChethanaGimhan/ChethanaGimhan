@@ -138,7 +138,6 @@ Third-year Computer Science \& Engineering undergraduate at the University of Mo
 - **AWS Academy Graduate — Cloud Foundations** · Feb 2026
 - **AWS Academy Graduate — Microservices and CI/CD Pipeline Builder** · Feb 2026
 - **Semi-Finalist, SLIoT Challenge 2025** (Open Category) — SLT Mobitel · IESL · Dept. of CSE, University of Moratuwa
-- **University Colours, Athletics** — University of Moratuwa
 
 ---
 
