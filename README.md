@@ -148,9 +148,3 @@ Third-year Computer Science \& Engineering undergraduate at the University of Mo
 - **Student Member**, Institution of Engineers Sri Lanka (IESL) · Mar 2025 – Present
 
 ---
-
-<div align="center">
-
-⭐ Open to internships in **Site Reliability Engineering**, **Software Engineering**, and **Cybersecurity**
-
-</div>
