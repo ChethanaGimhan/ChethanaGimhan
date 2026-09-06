@@ -73,13 +73,6 @@ Third-year Computer Science \& Engineering undergraduate at the University of Mo
 
 **Tech Stack:** `FastAPI` `PostgreSQL` `Docker` `GitHub Actions` `Trivy` `GHCR` `Render`&nbsp;&nbsp;&nbsp;&nbsp;[GitHub →](https://github.com/ChethanaGimhan/hr-interview-system)
 
-### 🚌 RouteX — Bus Tracking Mobile App
-*Group Project · SLIoT Challenge 2025 Semi-Finalist*
-- Built a cross-platform mobile app with real-time GPS bus tracking and an animated, responsive UI
-- Implemented a booking interface, bus search, and profile management features
-
-**Tech Stack:** `Flutter` `Firebase`&nbsp;&nbsp;&nbsp;&nbsp;[GitHub →](https://github.com/Blazer2020/RouteX)
-
 ---
 
 ## 🛠️ Tech Stack
