@@ -8,6 +8,7 @@
 *I don't stop at 'it works' — I stop at knowing why it works, and how it breaks.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-B45309?style=flat-square&logo=vercel&logoColor=white)](https://chethanagimhan.cse23.org)
+[![Website](https://img.shields.io/badge/Website-chethanagimhan.github.io-0B7A75?style=flat-square&logo=githubpages&logoColor=white)](https://chethanagimhan.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethanagimhan)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chethanag.23@cse.mrt.ac.lk)
 [![GitHub](https://img.shields.io/badge/GitHub-ChethanaGimhan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ChethanaGimhan)
