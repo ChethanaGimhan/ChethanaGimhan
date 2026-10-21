@@ -58,7 +58,7 @@ Third-year Computer Science \& Engineering undergraduate at the University of Mo
 
 **Tech Stack:** `VHDL` `Xilinx Vivado` `Basys 3 FPGA`&nbsp;&nbsp;&nbsp;&nbsp;[GitHub →](https://github.com/ChethanaGimhan/nano-processor)
 
-### 🕵️ FactumDB — MySQL Forensic Correlation Tool *(ongoing)*
+### 🕵️ FactumDB — MySQL Forensic Correlation Tool
 *Semester 5 Cyber Security Group Project · 2026*
 - Building a digital forensics tool that correlates MySQL InnoDB tablespace files with binary logs to reconstruct database transaction history
 - Built the utility adapter layer (`ibd2sdi`, `innochecksum`, `ibd2sql`, `mysqlbinlog`) parsing raw forensic tool output into canonical models, with positional-field-to-schema mapping and table-level filtering for multi-table binary logs
@@ -66,7 +66,7 @@ Third-year Computer Science \& Engineering undergraduate at the University of Mo
 
 **Tech Stack:** `Python` `SQLite` `MySQL InnoDB Internals` `Binary Log Analysis` `Digital Forensics`&nbsp;&nbsp;&nbsp;&nbsp;[GitHub →](https://github.com/Factum-Labs)
 
-### 🔐 HR Interview Automation System *(ongoing)*
+### 🔐 HR Interview Automation System
 *Independent Project · 2026*
 - Built a FastAPI + PostgreSQL backend with Pydantic validation, API-key authentication, rate limiting, and structured logging
 - Containerized with multi-stage Docker builds
